@@ -12,4 +12,4 @@ Furthermore, customization options are available for the cover background image 
 
 ## Usage
 
-This project is available for personal use. For commercial use, please contact me at karla.berumen@pm.com for further information and permissions.
+This project is available for personal use. For commercial use, please contact me at karla.berumen@protonmail.com for further information and permissions.
